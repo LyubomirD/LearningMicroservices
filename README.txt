@@ -1,10 +1,24 @@
-This is my microservice learning journey!
+First steps in microservices!
 
-I am thought by Java Brains youtube videos about microservices!
-The videos are detailed, easy to follow and explained for a way that a beginner would understand. His videos are divided into level of complexity and knowledge.
+Why do we need microservices?
+- Like everything in the programming world, microservices are invented to solve a certain problem.
+So a better question would be "What problem do microservices solve?".
+- Sometimes some applications are deployed as one single build, as one tightly coupled unit.
+This type of applications are called monolithic and use the  monolithic architecture.
+These monolithic applications may be easier to deploy, but are extremely challenging to maintain
+and build on top of!
+- This is the problem that microservices solve. Microservices are like mini application, working together
+to create the main application. Each microservice focuses on only one task, and when its functionality is needed
+by the client, the microservice is being only then called!
+- Microservices architecture breaks down the application into smaller, loosely coupled services.
+Each service has its own codebase, database, and deployment unit. This makes microservices easier to
+maintain, scale of top and resource efficient!
+
+To learn in much greater detail microservices I encourage you to follow Java Brains tutorial in YouTube.
+The course is made in understandable, highly detailed and most importantly easy to follow. The course provides
+examples, diagrams and much more!
 
 Links to the videos:
-Level 1: https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas 
-
-
-PS: I would be adding the level video links when I have complete the given level.
+Level 1: https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas
+Level 2: https://www.youtube.com/watch?v=o8RO38KbWvA&list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSrX5e
+Level 3: https://www.youtube.com/watch?v=upoIwn4rWCo&list=PLqq-6Pq4lTTaoaVoQVfRJPqvNTCjcTvJB
