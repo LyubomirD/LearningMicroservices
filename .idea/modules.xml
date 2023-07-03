@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DiscoveryServer.iml" filepath="$PROJECT_DIR$/DiscoveryServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Microservice.iml" filepath="$PROJECT_DIR$/.idea/Microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieCatalogService/MovieCatalogService.iml" filepath="$PROJECT_DIR$/MovieCatalogService/MovieCatalogService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieInfoService/MovieInfoService.iml" filepath="$PROJECT_DIR$/MovieInfoService/MovieInfoService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RatingDataService/RatingDataService.iml" filepath="$PROJECT_DIR$/RatingDataService/RatingDataService.iml" />
     </modules>
   </component>
 </project>

@@ -14,11 +14,16 @@ by the client, the microservice is being only then called!
 Each service has its own codebase, database, and deployment unit. This makes microservices easier to
 maintain, scale of top and resource efficient!
 
-To learn in much greater detail microservices I encourage you to follow Java Brains tutorial in YouTube.
-The course is made in understandable, highly detailed and most importantly easy to follow. The course provides
-examples, diagrams and much more!
+To learn in detail microservices I encourage you to follow Java Brains tutorial in YouTube.
+The course is made in understandable, highly detailed and easy to follow way. The course provides
+examples, diagrams and more!
 
 Links to the videos:
 Level 1: https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas
 Level 2: https://www.youtube.com/watch?v=o8RO38KbWvA&list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSrX5e
 Level 3: https://www.youtube.com/watch?v=upoIwn4rWCo&list=PLqq-6Pq4lTTaoaVoQVfRJPqvNTCjcTvJB
+
+Important:
+Note that for all the microservices to work properly they need to exist in separate projects!
+I have put them all here (the project microservice) for easier access and review. When they are in
+the same project this seems to causing a problem between they run time and communication with one another.
